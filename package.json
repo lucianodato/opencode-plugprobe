@@ -1,0 +1,16 @@
+{
+  "name": "opencode-plugprobe",
+  "version": "0.1.0",
+  "description": "Schema-backed OpenCode tools for the plugprobe audio plugin CLI",
+  "repository": "git+https://github.com/lucianodato/opencode-plugprobe.git",
+  "type": "module",
+  "main": "./index.js",
+  "exports": "./index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "@opencode/plugin": "^2.0.26"
+  }
+}
