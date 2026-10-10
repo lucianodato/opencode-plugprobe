@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: MIT
+// SPDX-License-Identifier: GPL-3.0-or-later
 import { spawn } from "node:child_process"
 
 export function createRunner(binary = process.env.PLUGPROBE_BIN || "plugprobe") {
