@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: GPL-3.0-or-later
+// SPDX-License-Identifier: MIT
 import assert from "node:assert/strict"
 import { chmod, mkdtemp, rm, writeFile } from "node:fs/promises"
 import os from "node:os"

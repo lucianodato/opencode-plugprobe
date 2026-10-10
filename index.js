@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: GPL-3.0-or-later
+// SPDX-License-Identifier: MIT
 import { Plugin } from "@opencode/plugin"
 import { createRunner } from "./cli.js"
 

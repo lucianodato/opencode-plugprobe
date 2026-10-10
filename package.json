@@ -9,7 +9,7 @@
   "scripts": {
     "test": "node --test"
   },
-  "license": "GPL-3.0-or-later",
+  "license": "MIT",
   "dependencies": {
     "@opencode/plugin": "^2.0.26"
   }
